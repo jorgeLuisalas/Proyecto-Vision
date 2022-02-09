@@ -1,0 +1,357 @@
+.logotipo {
+    width: 80px;
+    height: 60px;
+}
+
+.nav-item {
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #000;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.icono-header {
+    width: 30px;
+}
+
+.icono-header1 {
+    margin-top: 15px;
+    width: 30px
+}
+
+.boton {
+    margin-right: 25px;
+    background-color: transparent;
+    color: #fff;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.sps--abv {
+    background-color: transparent;
+    color: #000;
+}
+
+.sps--blw {
+    background-color: black;
+    color: #000;
+}
+
+.titulo-imagenes {
+    font-family: 'Teko', sans-serif;
+    font-size: 100px;
+}
+
+.banner-video {
+    background-image: url("img/SITIO\ RAIZ_images_home_video-bg.jpg");
+    padding: 200px 0;
+    position: relative;
+    text-align: center;
+}
+
+.banner-video img {
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+
+.altura-arriba-abajo {
+    padding: 100px 0;
+}
+
+.letra {
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    color: rgba(146, 83, 31, 0.445);
+}
+
+.letrita {
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+}
+
+.letrota {
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    color: rgba(71, 37, 37, 0.459);
+}
+
+.letter {
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+    color: magenta;
+    margin-right: auto;
+    position: relative;
+}
+
+.boton1 {
+    width: 375px;
+    background-color: transparent;
+}
+
+.card-text {
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+    color: rgba(92, 48, 48, 0.699);
+}
+
+.card-title {
+    font-family: 'Teko', sans-serif;
+    font-size: 28px;
+    color: #000;
+}
+
+.tituloprd {
+    font-family: 'Teko', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.letrita1 {
+    font-family: 'Teko', sans-serif;
+    font-size: 28px;
+    color: rgba(71, 37, 37, 0.459);
+}
+
+.tituloP {
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    color: rgba(71, 37, 37, 0.459);
+    text-align: center;
+}
+
+ul li a:hover {
+    transition: 0.2s;
+    color: black;
+    border-bottom: 3px solid rgb(148, 115, 44);
+}
+
+.letris {
+    font-size: 18px;
+}
+
+.coton {
+    background-color: transparent;
+    border-radius: 8px;
+    color: white;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 75%;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    font-family: 'Teko', sans-serif;
+    font-size: 50px;
+}
+
+.letra-secundaria {
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+.boton3 {
+    position: relative;
+    margin-top: -85px;
+    margin-left: 200px;
+}
+
+.boton5 {
+    height: 50px;
+    width: 200px;
+}
+
+#container {
+    width: 100%;
+    height: 330px
+}
+
+#part1 {
+    width: 100%;
+    height: 280px;
+    background-color: #292929
+}
+
+#part2 {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    position: relative;
+    top: -15px
+}
+
+#companyinfo {
+    width: 14%;
+    height: 280px;
+    position: relative;
+    left: 8%;
+    top: 30px
+}
+
+#sitelink {
+    font-size: 35px;
+    color: #f44336
+}
+
+#sitelink:hover {
+    color: #e65100
+}
+
+#title {
+    color: gray;
+    position: relative;
+    top: 0px;
+    font-size: 14.1px
+}
+
+#detail {
+    color: #aaa7a7;
+    font-size: 16px
+}
+
+#explore {
+    width: 14%;
+    height: 280px;
+    position: relative;
+    top: -235px;
+    left: 29%
+}
+
+#txt1,
+#txt2,
+#txt3,
+#txt4,
+#txt5 {
+    color: white;
+    font-size: 20px
+}
+
+.link {
+    display: flex;
+    width: 90px;
+    height: 40px;
+    color: #aaa7a7;
+    background-color: transparent;
+    border-top: 2px solid white;
+    position: relative;
+    top: -10px
+}
+
+.link:hover,
+.link1:hover {
+    color: #e65100
+}
+
+#visit {
+    width: 14%;
+    height: 280px;
+    position: relative;
+    top: -515px;
+    left: 42%
+}
+
+.text {
+    color: #aaa7a7;
+    font-size: 14px;
+    margin-top: -10px
+}
+
+#legal {
+    width: 14%;
+    height: 280px;
+    position: relative;
+    top: -800px;
+    left: 59.5%
+}
+
+.link1 {
+    display: flex;
+    width: 150px;
+    height: 40px;
+    color: #aaa7a7;
+    background-color: transparent;
+    border-top: 2px solid white;
+    position: relative;
+    top: -10px;
+    margin-top: 7px
+}
+
+#subscribe {
+    position: relative;
+    top: -1080px;
+    left: 78%;
+    width: 14%;
+    height: 280px
+}
+
+#email {
+    color: white;
+    position: relative;
+    top: -20px
+}
+
+@media only screen and (max-width:1000px) {
+    #companyinfo {
+        width: 20%
+    }
+    #sitelink {
+        font-size: 30px
+    }
+}
+
+@media only screen and (max-width:1080px) {
+    #companyinfo {
+        position: relative;
+        left: 3%
+    }
+    #txt6 {
+        position: relative;
+        left: 3%
+    }
+    #explore {
+        position: relative;
+        top: -240px;
+        left: 26%
+    }
+    #sitelink {
+        font-size: 25px
+    }
+    #detail {
+        font-size: 13px
+    }
+    .link {
+        width: 60px
+    }
+    #visit {
+        position: relative;
+        top: -520px;
+        left: 37%
+    }
+    .text {
+        font-size: 13px
+    }
+    #subscribe {
+        position: relative;
+        top: -1080px;
+        left: 76%;
+        width: 20%
+    }
+    #email,
+    .btn {
+        position: relative;
+        top: 0px
+    }
+    #part1 {
+        height: 250px
+    }
+}
